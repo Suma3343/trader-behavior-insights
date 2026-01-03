@@ -1,6 +1,5 @@
-# trader-behavior-insights
-Analysis of trader performance vs Bitcoin market sentiment using Hyperliquid trading data and Fear &amp; Greed Index.
 # Trader Behavior Insights
+Analysis of trader performance vs Bitcoin market sentiment using Hyperliquid trading data and Fear &amp; Greed Index.
 
 ## Objective
 The objective of this project is to analyze the relationship between Bitcoin market sentiment
